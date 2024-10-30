@@ -1,0 +1,5 @@
+C:/Users/galal/CLionProjects/OOPLAB10-11/cmake-build-debug/CMakeFiles/OOPLAB10_11.dir
+C:/Users/galal/CLionProjects/OOPLAB10-11/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/galal/CLionProjects/OOPLAB10-11/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/galal/CLionProjects/OOPLAB10-11/cmake-build-debug/CMakeFiles/OOPLAB10_11_autogen_timestamp_deps.dir
+C:/Users/galal/CLionProjects/OOPLAB10-11/cmake-build-debug/CMakeFiles/OOPLAB10_11_autogen.dir
